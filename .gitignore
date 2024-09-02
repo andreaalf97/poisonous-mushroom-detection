@@ -1,0 +1,5 @@
+.venv
+.python-version
+test.csv
+train.csv
+submission.csv
